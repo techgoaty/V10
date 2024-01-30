@@ -12,23 +12,23 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: Ednut001" //ur github or insta name
+global.location = "Nigeria, Lagos, Abuja" //ur location
 
 //new
-global.botname = '𝓡𝓞𝓢𝓔' //ur bot name
-global.ownernumber = '918618971837' //ur owner number
+global.botname = 'Ednut' //ur bot name
+global.ownernumber = '2347036214381' //ur owner number
 global.ownername = '𝕹𝖆𝖙𝖍𝖆𝖓 𓇻‎' //ur owner name
 global.websitex = "https://youtu.be/-Omye-W0pTE"
 global.wagc = "https://chat.whatsapp.com/HeXOhgWhj2OEcTF1LPVzOv"
-global.themeemoji = '☠️'
-global.wm = "ORDINARYGETO Bot Inc."
+global.themeemoji = '🪀'
+global.wm = " ednut Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD10' //script link
 global.packname = "Sticker By"
-global.author = "ORDINARGETO"
-global.creator = "× ROSE"
+global.author = "Ednut"
+global.creator = "× Ednut"
 global.xprefix = '.'
-global.premium = ["918618971837"] // Premium User
+global.premium = ["2347036214381"] // Premium User
 global.hituet = 0
 
 //bot sett
