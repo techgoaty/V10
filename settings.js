@@ -16,14 +16,14 @@ global.socialm = "GitHub: Ednut001" //ur github or insta name
 global.location = "Nigeria, Lagos, Abuja" //ur location
 
 //new
-global.botname = 'Ednut' //ur bot name
+global.botname = '𝕰𝖉𝖓𝖚𝖙 𝖇𝖔𝖙 𝖒𝖉' //ur bot name
 global.ownernumber = '2347036214381' //ur owner number
-global.ownername = '𝕹𝖆𝖙𝖍𝖆𝖓 𓇻‎' //ur owner name
-global.websitex = "https://youtu.be/-Omye-W0pTE"
-global.wagc = "https://chat.whatsapp.com/HeXOhgWhj2OEcTF1LPVzOv"
-global.themeemoji = '🪀'
+global.ownername = '𝐋𝐄𝐆𝐄𝐍𝐃𝐀𝐑𝐘 𝐄𝐃𝐍𝐔𝐓‎' //ur owner name
+global.websitex = "https://chat.whatsapp.com/EduR0psW2l41eonnvegRuk"
+global.wagc = "https://chat.whatsapp.com/EduR0psW2l41eonnvegRuk"
+global.themeemoji = '👀'
 global.wm = " ednut Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD10' //script link
+global.botscript = 'https://github.com/Ednut001/ednutBot-MD10' //script link
 global.packname = "Sticker By"
 global.author = "Ednut"
 global.creator = "2347036214381@s.whatsapp.net"
@@ -36,18 +36,18 @@ global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v3' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.autoswview = true //auto status/story view
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-    done: 'Done✓',
+    done: 'Done bruh✓',
     error: 'Error!',
-    success: 'Here you go!'
+    success: 'made by a legend named ednut🦄!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
