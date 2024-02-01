@@ -16,7 +16,7 @@ global.socialm = "GitHub: Ednut001" //ur github or insta name
 global.location = "Nigeria, Lagos, Abuja" //ur location
 
 //new
-global.botname = '𝕰𝖉𝖓𝖚𝖙 𝖇𝖔𝖙 𝖒𝖉' //ur bot name
+global.botname = 'ednut bot md' //ur bot name
 global.ownernumber = '2347036214381' //ur owner number
 global.ownername = '𝐋𝐄𝐆𝐄𝐍𝐃𝐀𝐑𝐘 𝐄𝐃𝐍𝐔𝐓‎' //ur owner name
 global.websitex = "https://chat.whatsapp.com/EduR0psW2l41eonnvegRuk"
