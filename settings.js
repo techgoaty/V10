@@ -23,7 +23,7 @@ global.websitex = "https://chat.whatsapp.com/HfMmL74aP3lC24AcHtebWx"
 global.wagc = "https://chat.whatsapp.com/HfMmL74aP3lC24AcHtebWx"
 global.themeemoji = '👀'
 global.wm = " ednut Bot Inc."
-global.botscript = 'https://github.com/Ednut001/ednutBot-MD10' //script link
+global.botscript = 'https://github.com/Ednut001/ednutBot-MD' //script link
 global.packname = "Sticker By"
 global.author = "Ednut"
 global.creator = "2348102487241@s.whatsapp.net"
@@ -32,22 +32,22 @@ global.premium = ["2348102487241"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v2' // menu type 'v1' => 'v8'
+global.typemenu = 'v3' // menu type 'v1' => 'v8'
 global.typereply = 'v3' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = true //welcome/left in groups
+global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = true //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.autoswview = false //auto status/story view
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
-	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-    done: 'Done bruh✓',
+	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable note 🔞',
+    done: 'Done bruh ✓🧢',
     error: 'Error!',
-    success: 'made by a legend named ednut🦄!'
+    success: 'done by a legend named ednut🦄!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
