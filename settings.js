@@ -44,8 +44,8 @@ global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
-	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable note 🔞',
-    done: 'Done bruh ✓🧢',
+	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable note adult contnt',
+    done: 'Done bruh ✓',
     error: 'Error!',
     success: 'done by a legend named ednut🦄!'
 }
