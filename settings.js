@@ -27,12 +27,12 @@ global.botscript = 'https://github.com/Ednut001/ednutBot-MD' //script link
 global.packname = "Sticker By"
 global.author = "Ednut"
 global.creator = "2348102487241@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '!'
 global.premium = ["2348102487241"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v3' // menu type 'v1' => 'v8'
+global.typemenu = 'v2' // menu type 'v1' => 'v8'
 global.typereply = 'v3' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
